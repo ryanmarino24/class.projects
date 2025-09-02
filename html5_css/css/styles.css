@@ -27,11 +27,21 @@ font-size: 20px;
 }
  nav {
 text-align: center;
-border-top: 2px solid #E4D2BA;
-border-bottom: 2px solid #E4D2BA;
+border-top: 2px solid #e3d1ba;
+border-bottom: 2px solid #e3d1ba;
 padding: 20px 0;
 
 
+ }
+
+ ul {
+color: #f2dcc9;
+border-top: 2px solid #f2dcc9;
+border-bottom: 2px solid #f2dcc9;
+padding: 20px 0;
+margin: 0 20px;
+text-align: center;
+font-size: 20px;
  }
 
 nav a {
