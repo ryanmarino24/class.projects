@@ -26,10 +26,20 @@ text-align: center;
 border-top: 2px solid #D97777;
 border-bottom: 2px solid #D97777;
 padding: 20px 0;
-
+font-size: 20px;
 
  }
 
+ ul {
+color: #4c0c0c;
+border-top: 2px solid #D97777;
+border-bottom: 2px solid #D97777;
+padding: 20px 0;
+margin: 0 20px;
+text-align: center;
+font-size: 20px;
+text-decoration: none;
+ }
 nav a {
 color: #D97777;
 font-size: 20px;
